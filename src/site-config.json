@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "North Beach Sash & Window Supply",
+    "phone": "+14157758075",
+    "category": "window replacement company",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Francisco's Window Experts",
+      "heroSubline": "Preserving Bay Area homes with quality window replacement and repair. Expert craftsmanship, lasting results.",
+      "aboutTitle": "Decades of Bay Area Window Expertise",
+      "aboutText": [
+        "North Beach Sash & Window Supply was founded on a simple principle: provide San Francisco residents with durable, beautiful windows that stand up to the city's unique climate. We're a family-owned business, born and raised right here in the Bay Area.",
+        "We believe in doing things the right way, even when it's the harder way. That means using premium materials, employing skilled craftsmen, and paying meticulous attention to detail on every project. We treat every home as if it were our own.",
+        "We're proud to be a part of the San Francisco community. We actively support local initiatives and organizations that work to improve the lives of our neighbors. When you choose us, you're supporting a business committed to the city."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of San Francisco architecture and weather patterns."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "Windows tailored to your specific needs and aesthetic preferences."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "Durable, energy-efficient windows built to last."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Skilled craftsmen ensure proper fit and performance."
+        }
+      ],
+      "ctaHeadline": "Upgrade Your Windows Today",
+      "ctaSubline": "Get a free consultation and experience the difference quality makes."
+    },
+    "services": [
+      {
+        "slug": "window-replacement",
+        "name": "Window Replacement",
+        "shortDescription": "Upgrade your home with energy-efficient, beautiful new windows.",
+        "description": "Replacing your windows is a significant investment that can dramatically improve your home's comfort, energy efficiency, and curb appeal. At North Beach Sash & Window Supply, we offer a wide selection of window styles and materials to suit any home and budget. From classic double-hung windows to modern casement and awning styles, we have the perfect solution for your needs.\n\nOur experienced team will handle every aspect of the window replacement process, from initial consultation and precise measurements to expert installation and meticulous cleanup. We understand the nuances of San Francisco architecture and will ensure that your new windows seamlessly integrate with your home's existing style. We work with all types of homes from Victorians in Pacific Heights to modern condos in SOMA, and understand how to navigate the unique challenges that each presents.\n\nWe prioritize using high-quality, energy-efficient windows that meet or exceed industry standards. This means lower energy bills, improved insulation, and reduced noise pollution. We'll help you choose the right windows to maximize your home's performance and value.",
+        "process": [
+          "Step 1: Consultation and measurement",
+          "Step 2: Window selection and ordering",
+          "Step 3: Old window removal",
+          "Step 4: New window installation and sealing"
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Increased home value",
+          "Enhanced curb appeal",
+          "Reduced noise pollution"
+        ],
+        "faq": [
+          {
+            "question": "How long does window replacement take?",
+            "answer": "The duration depends on the number of windows and the complexity of the project, but most replacements can be completed in 1-3 days."
+          },
+          {
+            "question": "What types of windows do you offer?",
+            "answer": "We offer a wide variety of window styles, including double-hung, casement, awning, sliding, and picture windows, in materials like wood, vinyl, and aluminum."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer flexible financing options to help make your window replacement project more affordable."
+          }
+        ]
+      },
+      {
+        "slug": "window-repair",
+        "name": "Window Repair",
+        "shortDescription": "Extend the life of your existing windows with expert repair services.",
+        "description": "Don't replace your windows if you don't have to. North Beach Sash & Window Supply offers comprehensive window repair services to restore your existing windows to their former glory. We specialize in repairing all types of windows, including wood, vinyl, and aluminum frames. Bay Area weather can be hard on windows, so we will work to extend the life of your windows.\n\nOur skilled technicians can address a wide range of window problems, including broken glass, damaged frames, faulty hardware, and air leaks. We use high-quality replacement parts and proven repair techniques to ensure lasting results. We understand the unique challenges of repairing older windows and have the expertise to preserve their original character.\n\nRepairing your windows is a cost-effective way to improve your home's energy efficiency, comfort, and appearance. It can also prevent further damage and extend the lifespan of your windows. Whether you have a single broken window or multiple windows in need of repair, we're here to help.",
+        "process": [
+          "Step 1: Window inspection and assessment",
+          "Step 2: Repair plan and cost estimate",
+          "Step 3: Window repair and restoration",
+          "Step 4: Quality control and cleanup"
+        ],
+        "benefits": [
+          "Cost-effective solution",
+          "Preserves original windows",
+          "Improves energy efficiency",
+          "Extends window lifespan"
+        ],
+        "faq": [
+          {
+            "question": "What types of window repairs do you offer?",
+            "answer": "We offer a wide range of window repairs, including glass replacement, frame repair, hardware replacement, and weather stripping replacement."
+          },
+          {
+            "question": "How much does window repair cost?",
+            "answer": "The cost of window repair depends on the type and extent of the damage. We offer free estimates to provide you with an accurate cost assessment."
+          },
+          {
+            "question": "Can you repair old or historic windows?",
+            "answer": "Yes, we specialize in repairing and restoring old and historic windows, preserving their original character and charm."
+          }
+        ]
+      },
+      {
+        "slug": "foggy-glass-repair",
+        "name": "Foggy Glass Repair",
+        "shortDescription": "Restore clarity to your windows with our foggy glass repair services.",
+        "description": "Foggy or cloudy glass is a common problem in double-pane windows. It occurs when the seal between the panes fails, allowing moisture to enter and condense on the glass surface. This not only obstructs your view but also reduces your window's energy efficiency.\n\nNorth Beach Sash & Window Supply offers a cost-effective solution to foggy glass: glass replacement. This involves replacing only the glass unit, rather than the entire window, saving you money and hassle. Our experienced technicians will carefully remove the damaged glass and install a new, high-quality insulated glass unit.\n\nWe use advanced sealing techniques to ensure a long-lasting, airtight seal. This will prevent future condensation and keep your windows looking clear and beautiful. With our foggy glass repair services, you can restore your windows to their original clarity and enjoy unobstructed views of the Bay Area.",
+        "process": [
+          "Step 1: Inspection of the foggy glass",
+          "Step 2: Measurement and ordering of replacement glass",
+          "Step 3: Removal of the old glass unit",
+          "Step 4: Installation of the new glass unit and sealing"
+        ],
+        "benefits": [
+          "Restores window clarity",
+          "Improves energy efficiency",
+          "Cost-effective solution",
+          "Extends window lifespan"
+        ],
+        "faq": [
+          {
+            "question": "What causes foggy glass in windows?",
+            "answer": "Foggy glass is caused by a broken seal between the panes of glass, which allows moisture to enter and condense."
+          },
+          {
+            "question": "Is it better to repair or replace foggy windows?",
+            "answer": "Repairing foggy glass by replacing the glass unit is often a more cost-effective option than replacing the entire window."
+          },
+          {
+            "question": "How long does foggy glass repair take?",
+            "answer": "Foggy glass repair typically takes 1-2 hours per window, depending on the size and complexity."
+          }
+        ]
+      },
+      {
+        "slug": "window-weatherization",
+        "name": "Window Weatherization",
+        "shortDescription": "Seal out drafts and save energy with our professional window weatherization services.",
+        "description": "San Francisco's cool, damp climate can take a toll on your windows, leading to drafts, air leaks, and higher energy bills. North Beach Sash & Window Supply offers comprehensive window weatherization services to help you seal out the elements and save money.\n\nOur experienced technicians will inspect your windows for gaps, cracks, and other sources of air leaks. We'll then apply weather stripping, caulk, and other sealing materials to create a tight, airtight seal. We use high-quality, weather-resistant materials that are designed to withstand the Bay Area's unique climate conditions.\n\nWindow weatherization is a simple and cost-effective way to improve your home's energy efficiency, comfort, and indoor air quality. It can also reduce noise pollution and prevent moisture damage. Keep the fog and wind outside, and the warmth inside.",
+        "process": [
+          "Step 1: Window inspection for air leaks",
+          "Step 2: Application of weather stripping and caulk",
+          "Step 3: Sealing of gaps and cracks",
+          "Step 4: Quality control and testing"
+        ],
+        "benefits": [
+          "Reduced energy bills",
+          "Improved home comfort",
+          "Reduced noise pollution",
+          "Improved indoor air quality"
+        ],
+        "faq": [
+          {
+            "question": "What is window weatherization?",
+            "answer": "Window weatherization is the process of sealing windows to prevent air leaks and improve energy efficiency."
+          },
+          {
+            "question": "How much does window weatherization cost?",
+            "answer": "The cost of window weatherization depends on the number of windows and the extent of the work required. We offer free estimates."
+          },
+          {
+            "question": "How long does window weatherization last?",
+            "answer": "With proper maintenance, window weatherization can last for several years."
+          }
+        ]
+      },
+      {
+        "slug": "custom-window-design",
+        "name": "Custom Window Design",
+        "shortDescription": "Create unique windows that reflect your style with our custom design services.",
+        "description": "Looking for windows that perfectly match your home's unique architecture and your personal style? North Beach Sash & Window Supply offers custom window design services to bring your vision to life. Whether you're renovating a historic Victorian or building a modern masterpiece, we can create windows that are tailored to your specific needs and preferences.\n\nOur experienced designers will work closely with you to understand your vision and create a window design that meets your exact specifications. We offer a wide range of design options, including custom shapes, sizes, materials, and finishes. We can also incorporate unique features such as decorative glass, custom hardware, and special coatings.\n\nWith our custom window design services, you can create windows that are not only beautiful but also functional and energy-efficient. We use high-quality materials and advanced manufacturing techniques to ensure that your custom windows are built to last.",
+        "process": [
+          "Step 1: Consultation and design development",
+          "Step 2: Material selection and specification",
+          "Step 3: Manufacturing and fabrication",
+          "Step 4: Installation and finishing"
+        ],
+        "benefits": [
+          "Unique and personalized design",
+          "Perfect fit for your home",
+          "Enhanced aesthetic appeal",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "What is involved in custom window design?",
+            "answer": "Custom window design involves working with a designer to create windows that are tailored to your specific needs and preferences."
+          },
+          {
+            "question": "What types of custom window designs do you offer?",
+            "answer": "We offer a wide range of custom window designs, including custom shapes, sizes, materials, and finishes."
+          },
+          {
+            "question": "How much does custom window design cost?",
+            "answer": "The cost of custom window design depends on the complexity of the design and the materials used. We offer free consultations."
+          }
+        ]
+      },
+      {
+        "slug": "historic-window-restoration",
+        "name": "Historic Window Restoration",
+        "shortDescription": "Preserve the beauty and integrity of your historic windows with our restoration services.",
+        "description": "San Francisco is full of beautiful, historic homes. North Beach Sash & Window Supply specializes in historic window restoration. We understand the importance of preserving the original character and charm of these windows while also improving their energy efficiency and functionality.\n\nOur skilled craftsmen have extensive experience working with historic windows of all types. We use traditional techniques and materials to restore your windows to their former glory. We can repair damaged frames, replace broken glass, restore original hardware, and re-glaze windows to create a tight, airtight seal.\n\nWe understand the unique challenges of working with historic windows and take great care to ensure that our restoration work is both historically accurate and durable. With our historic window restoration services, you can preserve the beauty and integrity of your historic home for generations to come.",
+        "process": [
+          "Step 1: Detailed assessment of existing windows",
+          "Step 2: Careful removal and cleaning of window components",
+          "Step 3: Repair and restoration of frames and sashes",
+          "Step 4: Re-glazing and weather stripping for energy efficiency"
+        ],
+        "benefits": [
+          "Preserves historic character",
+          "Improves energy efficiency",
+          "Extends window lifespan",
+          "Increases home value"
+        ],
+        "faq": [
+          {
+            "question": "Why is historic window restoration important?",
+            "answer": "Historic window restoration preserves the original character and charm of your home while also improving its energy efficiency and functionality."
+          },
+          {
+            "question": "What types of historic windows can you restore?",
+            "answer": "We can restore all types of historic windows, including wood, sash, and casement windows."
+          },
+          {
+            "question": "How long does historic window restoration take?",
+            "answer": "The duration of historic window restoration depends on the condition of the windows and the extent of the work required. We provide detailed estimates."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Francisco",
+        "slug": "san-francisco-ca",
+        "state": "CA",
+        "content": "North Beach Sash & Window Supply is proud to offer our comprehensive window replacement and installation services to the residents and businesses of San Francisco. We understand the unique architectural styles and weather conditions that characterize this vibrant city, and we tailor our solutions to meet your specific needs. From historic Victorians to modern condos, we have the expertise to enhance the beauty, energy efficiency, and value of your property with high-quality windows.\n\nOur team of experienced professionals is committed to providing exceptional craftsmanship and customer service. We offer a wide selection of window styles, materials, and finishes to complement any aesthetic. Whether you're looking to replace a single window or upgrade your entire home, we'll work closely with you to find the perfect solution that fits your budget and preferences. We are committed to keeping your home warm and dry, and our windows are installed to the highest standards to ensure a perfect fit and lasting performance. \n\nWe take pride in being a part of the San Francisco community and are dedicated to contributing to its continued success. We understand the importance of preserving the city's unique character and are committed to using sustainable practices in our work.",
+        "localContext": "San Francisco, known for its iconic landmarks like the Golden Gate Bridge and its diverse neighborhoods, presents unique challenges and opportunities for window replacement due to its varied climate and architectural styles. We understand the importance of preserving the historic charm while improving energy efficiency.",
+        "nearbyAreas": [
+          "Oakland",
+          "Berkeley",
+          "Sausalito"
+        ]
+      },
+      {
+        "city": "Oakland",
+        "slug": "oakland-ca",
+        "state": "CA",
+        "content": "North Beach Sash & Window Supply extends its expert window replacement and installation services to the dynamic city of Oakland. We recognize Oakland's diverse architectural landscape, from historic homes to modern developments, and our services are designed to cater to a wide range of needs.\n\nWe offer a comprehensive selection of window styles, materials, and finishes to enhance the beauty, energy efficiency, and value of your Oakland property. Our experienced team is committed to providing exceptional craftsmanship and customer service, ensuring that your window replacement project is completed to the highest standards. We understand the importance of balancing aesthetics with functionality, and we'll work closely with you to find the perfect windows for your home or business.\n\nWe are committed to serving the Oakland community with integrity and professionalism. We use only the highest quality materials and employ proven installation techniques to ensure lasting performance and satisfaction.",
+        "localContext": "Oakland, a city known for its vibrant arts scene and diverse culture, presents a range of window replacement needs, from preserving the character of historic homes to enhancing the energy efficiency of modern buildings. We are familiar with the unique challenges and opportunities of working in Oakland.",
+        "nearbyAreas": [
+          "Berkeley",
+          "Alameda",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Berkeley",
+        "slug": "berkeley-ca",
+        "state": "CA",
+        "content": "North Beach Sash & Window Supply is pleased to offer our window replacement and installation services to the residents and businesses of Berkeley. We understand the unique character of this vibrant city, known for its intellectual atmosphere and commitment to sustainability.\n\nWe offer a wide range of window styles, materials, and finishes to complement any Berkeley property, from historic Craftsman homes to modern eco-friendly designs. Our experienced team is dedicated to providing exceptional craftsmanship and customer service, ensuring that your window replacement project is completed to the highest standards. We are committed to helping you improve the energy efficiency, comfort, and value of your home or business.\n\nWe are proud to be a part of the Berkeley community and are committed to using sustainable practices in our work. We understand the importance of preserving the city's unique character and are dedicated to providing solutions that meet your specific needs.",
+        "localContext": "Berkeley, with its emphasis on sustainability and historic preservation, requires window replacement solutions that are both energy-efficient and aesthetically sensitive. We are experienced in working with Berkeley's unique architectural styles and building codes.",
+        "nearbyAreas": [
+          "Albany",
+          "Emeryville",
+          "Oakland"
+        ]
+      },
+      {
+        "city": "Sausalito",
+        "slug": "sausalito-ca",
+        "state": "CA",
+        "content": "North Beach Sash & Window Supply proudly serves the beautiful waterfront community of Sausalito with top-quality window replacement and installation services. We understand the unique coastal environment and architectural styles that define this charming town.\n\nWe offer a wide selection of window styles, materials, and finishes to complement any Sausalito property, from hillside homes with stunning views to waterfront condos. Our experienced team is committed to providing exceptional craftsmanship and customer service, ensuring that your window replacement project is completed to the highest standards. We are dedicated to helping you enhance the beauty, energy efficiency, and value of your home or business.\n\nWe are committed to serving the Sausalito community with integrity and professionalism. We understand the importance of preserving the town's unique character and are dedicated to providing solutions that meet your specific needs.",
+        "localContext": "Sausalito's proximity to the bay and its unique architectural styles demand window solutions that are both durable and aesthetically pleasing, able to withstand the coastal elements while complementing the town's artistic vibe. We are experienced in meeting the specific needs of Sausalito homeowners.",
+        "nearbyAreas": [
+          "Mill Valley",
+          "Tiburon",
+          "San Francisco"
+        ]
+      },
+      {
+        "city": "Mill Valley",
+        "slug": "mill-valley-ca",
+        "state": "CA",
+        "content": "North Beach Sash & Window Supply is pleased to offer our window replacement and installation services to the residents and businesses of Mill Valley. We understand the unique character of this charming town, nestled in the foothills of Mount Tamalpais.\n\nWe offer a wide range of window styles, materials, and finishes to complement any Mill Valley property, from rustic hillside homes to modern architectural designs. Our experienced team is dedicated to providing exceptional craftsmanship and customer service, ensuring that your window replacement project is completed to the highest standards. We are committed to helping you improve the energy efficiency, comfort, and value of your home or business.\n\nWe are committed to serving the Mill Valley community with integrity and professionalism. We understand the importance of preserving the town's natural beauty and are dedicated to providing solutions that meet your specific needs.",
+        "localContext": "Mill Valley, known for its redwood forests and hillside homes, requires window solutions that are both durable and aesthetically pleasing, blending seamlessly with the natural environment. We are experienced in working with the unique challenges of Mill Valley properties.",
+        "nearbyAreas": [
+          "Sausalito",
+          "Tiburon",
+          "San Rafael"
+        ]
+      },
+      {
+        "city": "San Rafael",
+        "slug": "san-rafael-ca",
+        "state": "CA",
+        "content": "North Beach Sash & Window Supply extends its professional window replacement and installation services to the city of San Rafael. Understanding the diverse residential and commercial properties within San Rafael, we tailor our solutions to meet the unique needs of each client.\n\nWhether it's enhancing the curb appeal of a historic home or improving the energy efficiency of a modern office building, our team is equipped with the expertise and resources to deliver exceptional results. We offer a wide selection of window styles, materials, and finishes, ensuring that you'll find the perfect fit for your property. Our commitment to quality craftsmanship and customer satisfaction sets us apart.\n\nWe're dedicated to providing San Rafael residents and businesses with reliable, long-lasting window solutions. Our experienced professionals are ready to assist you every step of the way, from initial consultation to final installation.",
+        "localContext": "San Rafael, with its mix of historic and modern architecture, requires a window replacement service that understands the nuances of both. We are familiar with the local building codes and aesthetic preferences of the area.",
+        "nearbyAreas": [
+          "Novato",
+          "Mill Valley",
+          "Larkspur"
+        ]
+      },
+      {
+        "city": "Novato",
+        "slug": "novato-ca",
+        "state": "CA",
+        "content": "North Beach Sash & Window Supply is proud to offer comprehensive window replacement and installation services to Novato residents and businesses. We appreciate Novato's community-focused atmosphere and variety of home styles, and we customize our services to fit your individual requirements.\n\nOur selection includes a wide array of window types, materials, and finishes to complement any property, and improve its energy efficiency. Our experienced technicians deliver quality workmanship and excellent customer service, ensuring a seamless and satisfactory experience.\n\nWe are committed to helping Novato maintain its beautiful homes and businesses. We use top-quality materials and proven installation techniques to ensure your new windows provide lasting performance and value.",
+        "localContext": "Novato's suburban character and varying home styles, from ranch homes to newer developments, require a window replacement service that is versatile and attentive to detail. We understand the importance of balancing aesthetics with energy efficiency in Novato homes.",
+        "nearbyAreas": [
+          "Petaluma",
+          "San Rafael",
+          "Santa Rosa"
+        ]
+      },
+      {
+        "city": "Pacifica",
+        "slug": "pacifica-ca",
+        "state": "CA",
+        "content": "North Beach Sash & Window Supply provides expert window replacement and installation services to the coastal community of Pacifica. We understand the unique challenges posed by the oceanfront environment and offer solutions designed to withstand the elements while enhancing your home's beauty.\n\nWe offer a wide selection of windows suited for Pacifica, including those with exceptional weather resistance, and energy efficiency. Our experienced team is committed to delivering quality workmanship and exceptional customer service. Whether you're looking to replace a single window or upgrade your entire home, we'll work closely with you to find the perfect solution.\n\nWe are dedicated to serving the Pacifica community and ensuring that your home remains beautiful and comfortable year-round. Our high-quality windows are installed to the highest standards, providing lasting performance and value.",
+        "localContext": "Pacifica's coastal location presents unique challenges for windows, including salt air and strong winds. Our window solutions are designed to withstand these harsh conditions while providing energy efficiency and aesthetic appeal.",
+        "nearbyAreas": [
+          "Daly City",
+          "San Bruno",
+          "Half Moon Bay"
+        ]
+      },
+      {
+        "city": "Daly City",
+        "slug": "daly-city-ca",
+        "state": "CA",
+        "content": "North Beach Sash & Window Supply is pleased to offer our window replacement and installation services to the residents and businesses of Daly City. We understand the diverse character of this city, and our services are designed to cater to a wide range of needs.\n\nWe offer a comprehensive selection of window styles, materials, and finishes to enhance the beauty, energy efficiency, and value of your Daly City property. Our experienced team is committed to providing exceptional craftsmanship and customer service, ensuring that your window replacement project is completed to the highest standards. We understand the importance of balancing aesthetics with functionality, and we'll work closely with you to find the perfect windows for your home or business.\n\nWe are committed to serving the Daly City community with integrity and professionalism. We use only the highest quality materials and employ proven installation techniques to ensure lasting performance and satisfaction.",
+        "localContext": "Daly City, with its mix of residential neighborhoods and commercial areas, requires window replacement services that are both versatile and reliable. We are experienced in working with the unique challenges and opportunities of Daly City properties.",
+        "nearbyAreas": [
+          "Pacifica",
+          "San Francisco",
+          "South San Francisco"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "We replaced all the windows in our Victorian in the Mission District. The team was professional, efficient, and respectful of our home. The new windows look amazing and have made a huge difference in the comfort of our house. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Window Repair",
+        "text": "I had a cracked window pane and North Beach Sash & Window Supply repaired it quickly and affordably. The technician was knowledgeable and friendly. Will definitely use them again.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Susan L.",
+        "rating": 5,
+        "service": "Foggy Glass Repair",
+        "text": "Our living room windows were so foggy, we could barely see out. North Beach Sash & Window Supply replaced the glass and now they're crystal clear. The difference is night and day!",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Window Weatherization",
+        "text": "We had a terrible draft coming from our windows. North Beach Sash & Window Supply weatherized them and now our house is so much warmer. Our heating bills have gone down significantly!",
+        "date": "2024-06-22"
+      },
+      {
+        "name": "Jennifer A.",
+        "rating": 5,
+        "service": "Custom Window Design",
+        "text": "Working with North Beach Sash & Window Supply on my custom window design was a fantastic experience. They listened to my ideas and created windows that are exactly what I wanted. The quality is outstanding!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 4,
+        "service": "Historic Window Restoration",
+        "text": "They carefully restored the original windows in my 1920s home, preserving their historic charm while improving their energy efficiency. I am very pleased with the results.",
+        "date": "2024-07-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "San Francisco Window Replacement | North Beach Sash",
+        "description": "SF's trusted window contractor. Expert replacement, repair, and custom solutions. Serving the Bay Area for over a decade."
+      },
+      "about": {
+        "title": "About Us | North Beach Sash & Window Supply",
+        "description": "Learn about North Beach Sash & Window Supply. San Francisco's window experts with years of experience and a commitment to quality."
+      },
+      "services": {
+        "title": "Window Services | North Beach Sash & Window Supply",
+        "description": "Window replacement, repair, weatherization & more. Serving San Francisco and surrounding areas. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Us | North Beach Sash & Window Supply",
+        "description": "Contact North Beach Sash & Window Supply for window replacement, repair, and more in San Francisco. Call us today!"
+      },
+      "reviews": {
+        "title": "Reviews | North Beach Sash & Window Supply",
+        "description": "Read reviews from satisfied customers of North Beach Sash & Window Supply. See why we're San Francisco's trusted window experts."
+      },
+      "service-areas": {
+        "title": "Service Areas | North Beach Sash & Window Supply",
+        "description": "North Beach Sash & Window Supply. Providing window replacement and repair to San Francisco and surrounding Bay Area communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "window-replacement": "/images/service-window-replacement.webp",
+      "window-repair": "/images/service-window-repair.webp",
+      "foggy-glass-repair": "/images/service-foggy-glass-repair.webp",
+      "window-weatherization": "/images/service-window-weatherization.webp",
+      "custom-window-design": "/images/service-custom-window-design.webp",
+      "historic-window-restoration": "/images/service-historic-window-restoration.webp"
+    },
+    "servicesResponsive": {
+      "window-replacement": {
+        "src": "/images/service-window-replacement.webp",
+        "srcset": "/images/service-window-replacement-400w.webp 400w, /images/service-window-replacement-800w.webp 800w, /images/service-window-replacement-1200w.webp 1200w, /images/service-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-repair": {
+        "src": "/images/service-window-repair.webp",
+        "srcset": "/images/service-window-repair-400w.webp 400w, /images/service-window-repair-800w.webp 800w, /images/service-window-repair-1200w.webp 1200w, /images/service-window-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "foggy-glass-repair": {
+        "src": "/images/service-foggy-glass-repair.webp",
+        "srcset": "/images/service-foggy-glass-repair-400w.webp 400w, /images/service-foggy-glass-repair-800w.webp 800w, /images/service-foggy-glass-repair-1200w.webp 1200w, /images/service-foggy-glass-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-weatherization": {
+        "src": "/images/service-window-weatherization.webp",
+        "srcset": "/images/service-window-weatherization-400w.webp 400w, /images/service-window-weatherization-800w.webp 800w, /images/service-window-weatherization-1200w.webp 1200w, /images/service-window-weatherization.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-window-design": {
+        "src": "/images/service-custom-window-design.webp",
+        "srcset": "/images/service-custom-window-design-400w.webp 400w, /images/service-custom-window-design-800w.webp 800w, /images/service-custom-window-design-1200w.webp 1200w, /images/service-custom-window-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "historic-window-restoration": {
+        "src": "/images/service-historic-window-restoration.webp",
+        "srcset": "/images/service-historic-window-restoration-400w.webp 400w, /images/service-historic-window-restoration-800w.webp 800w, /images/service-historic-window-restoration-1200w.webp 1200w, /images/service-historic-window-restoration.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

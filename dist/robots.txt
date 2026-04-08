@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-north-beach-sash-window-supply.dream-surge.com/sitemap-index.xml
